@@ -3,9 +3,9 @@ package tieba
 import (
 	"fmt"
 	"github.com/bitly/go-simplejson"
-	"github.com/iikira/BaiduPCS-Go/pcsutil"
-	"github.com/iikira/BaiduPCS-Go/requester"
-	"github.com/iikira/baidu-tools/tieba/tiebautil"
+	"github.com/fzfile/BaiduPCS-Go/pcsutil"
+	"github.com/fzfile/BaiduPCS-Go/requester"
+	"github.com/fzfile/baidu-tools/tieba/tiebautil"
 	"strconv"
 	"time"
 	"unsafe"
